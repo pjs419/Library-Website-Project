@@ -1,5 +1,8 @@
 <hr>
+<div class= "container">
 <footer>
-      <p><?php echo "This is a footer"?></p>
+      <p>Website Creatpr: Patrick John Somoza</p>
 </footer>
+</div>
+
 </html>
